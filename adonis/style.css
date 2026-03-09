@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.primeira-div{
+    color: white;
+    font-size: 18px;;
+    padding: 20px;
+}
+.titulo {
+    color: yellow;;
+    font-size: 36px;
+    padding: 20px;
+}
+.segunda-div {
+    color: white;
+    font-size: 18px;;
+    padding: 20px;
+}
